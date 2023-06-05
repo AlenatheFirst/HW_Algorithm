@@ -38,7 +38,7 @@ public class Main {
           break;
         }
       }
-    System.out.println(position);;
+    System.out.println(position);
 
   }
 }
